@@ -58,7 +58,7 @@ social-media-post-analyzer/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/social-media-post-analyzer.git
+git clone https://github.com/itsmounika93/social-media-post-analyzer.git
 ```
 
 ## Navigate to Project Folder
